@@ -379,7 +379,7 @@ padding:50px 10px;
 
 .titulo span{
 
-text-decoration: underline;
+text-decoration: underline; /* poner un subrayado al titulo o parte del titulo invie */
 
 }
 
